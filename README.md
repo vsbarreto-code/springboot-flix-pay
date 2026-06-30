@@ -1,5 +1,10 @@
 # FlixPay 💳
 
+Projeto desenvolvido como parte de uma série de desafios técnicos para treino de backend com Java e Spring Boot, simulando processos seletivos reais.
+
+---
+
+
 API REST desenvolvida em **Java + Spring Boot** para gerenciamento de **planos de assinatura** (mensal, trimestral, semestral e anual), inspirada em sistemas de cobrança de serviços de streaming.
 
 ## ✨ Funcionalidades
